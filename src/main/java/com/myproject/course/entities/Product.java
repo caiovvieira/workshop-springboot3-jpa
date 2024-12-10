@@ -44,7 +44,6 @@ public class Product implements Serializable{
 	private Set<OrderItem> items = new HashSet<>();
 	
 	
-	
 	public Product() {
 		
 	}
